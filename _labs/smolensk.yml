@@ -1,0 +1,20 @@
+---
+key: smolensk
+title: Дыши ! Смоленск
+lat: 54.778195
+long: 32.050725
+
+# translations for titles
+meetings_title: Мастерские
+contacts_title: Контакты
+
+meetings:
+- text: Открытый мониторинг качества воздуха в Смоленске.
+- text: Ищите информацию о ближайших мастерских по сборке сенсоров в Смоленске на канале Телеграм.
+
+contacts:
+- name: Группа в Телеграм&#58; @air67ru
+  url: https://t.me/air67ru
+
+website: https://air67.ru/
+telegram_group: air67ru
